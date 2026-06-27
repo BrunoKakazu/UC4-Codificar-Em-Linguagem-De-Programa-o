@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PCGamerJogos\\Desktop\\App\\Estudo\\Senac\\UC4\\Lista_Exercicios\\If\\Exercicios_If\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99CFC9D5-036A-4A2D-A34A-05A6B8691476}|Exercicios_If.csproj|c:\\users\\pcgamerjogos\\desktop\\app\\estudo\\senac\\uc4\\lista_exercicios\\if\\exercicios_if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CFC9D5-036A-4A2D-A34A-05A6B8691476}|Exercicios_If.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PCGamerJogos\\Desktop\\App\\Estudo\\Senac\\UC4\\Lista_Exercicios\\If\\Exercicios_If\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PCGamerJogos\\Desktop\\App\\Estudo\\Senac\\UC4\\Lista_Exercicios\\If\\Exercicios_If\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T00:45:38.529Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

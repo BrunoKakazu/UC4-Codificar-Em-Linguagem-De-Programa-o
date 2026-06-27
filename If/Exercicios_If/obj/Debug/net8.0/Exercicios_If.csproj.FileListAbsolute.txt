@@ -1,0 +1,15 @@
+C:\Users\PCGamerJogos\Desktop\App\Estudo\Senac\UC4\Lista_Exercicios\If\Exercicios_If\bin\Debug\net8.0\Exercicios_If.exe
+C:\Users\PCGamerJogos\Desktop\App\Estudo\Senac\UC4\Lista_Exercicios\If\Exercicios_If\bin\Debug\net8.0\Exercicios_If.deps.json
+C:\Users\PCGamerJogos\Desktop\App\Estudo\Senac\UC4\Lista_Exercicios\If\Exercicios_If\bin\Debug\net8.0\Exercicios_If.runtimeconfig.json
+C:\Users\PCGamerJogos\Desktop\App\Estudo\Senac\UC4\Lista_Exercicios\If\Exercicios_If\bin\Debug\net8.0\Exercicios_If.dll
+C:\Users\PCGamerJogos\Desktop\App\Estudo\Senac\UC4\Lista_Exercicios\If\Exercicios_If\bin\Debug\net8.0\Exercicios_If.pdb
+C:\Users\PCGamerJogos\Desktop\App\Estudo\Senac\UC4\Lista_Exercicios\If\Exercicios_If\obj\Debug\net8.0\Exercicios_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCGamerJogos\Desktop\App\Estudo\Senac\UC4\Lista_Exercicios\If\Exercicios_If\obj\Debug\net8.0\Exercicios_If.AssemblyInfoInputs.cache
+C:\Users\PCGamerJogos\Desktop\App\Estudo\Senac\UC4\Lista_Exercicios\If\Exercicios_If\obj\Debug\net8.0\Exercicios_If.AssemblyInfo.cs
+C:\Users\PCGamerJogos\Desktop\App\Estudo\Senac\UC4\Lista_Exercicios\If\Exercicios_If\obj\Debug\net8.0\Exercicios_If.csproj.CoreCompileInputs.cache
+C:\Users\PCGamerJogos\Desktop\App\Estudo\Senac\UC4\Lista_Exercicios\If\Exercicios_If\obj\Debug\net8.0\Exercicios_If.sourcelink.json
+C:\Users\PCGamerJogos\Desktop\App\Estudo\Senac\UC4\Lista_Exercicios\If\Exercicios_If\obj\Debug\net8.0\Exercicios_If.dll
+C:\Users\PCGamerJogos\Desktop\App\Estudo\Senac\UC4\Lista_Exercicios\If\Exercicios_If\obj\Debug\net8.0\refint\Exercicios_If.dll
+C:\Users\PCGamerJogos\Desktop\App\Estudo\Senac\UC4\Lista_Exercicios\If\Exercicios_If\obj\Debug\net8.0\Exercicios_If.pdb
+C:\Users\PCGamerJogos\Desktop\App\Estudo\Senac\UC4\Lista_Exercicios\If\Exercicios_If\obj\Debug\net8.0\Exercicios_If.genruntimeconfig.cache
+C:\Users\PCGamerJogos\Desktop\App\Estudo\Senac\UC4\Lista_Exercicios\If\Exercicios_If\obj\Debug\net8.0\ref\Exercicios_If.dll
